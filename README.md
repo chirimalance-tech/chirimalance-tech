@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I’m Lance!
 
-<!--
-**chirimalance-tech/chirimalance-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Statistician | 📈 Data Scientist | 🎓 Master's Student  
+🧮 Obsessed with Statistics & Data Science  
+✨ Turning complex stats into clear visuals & LaTeX‑ready teaching tools  
+💻 R wrangler | 🖼️ Plot maker | 🌐 Shiny app deployer  
+🔧 Systems thinker | 🛠️ Troubleshooter | 📦 Open‑source enthusiast  
+📚 Building modular, reproducible resources for learners everywhere  
+🌍 Passionate about accessibility, clarity & collaboration  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- **MCom / MSc in Statistics and Data Science**
+- **BCom Honours in Statistics and Data Science**   
+- **BCom Investment Management**   
+
+---
+
+## 💡 Skills & Tools
+- **Programming & Data**: R, SAS, Python, SQL  
+- **Statistical Modeling**: Probability theory, regression, variance decomposition, negative binomial modeling  
+- **Machine Learning**: Supervised & unsupervised learning, predictive modeling  
+- **Visualization & Communication**: ggplot2, LaTeX, Shiny apps, reproducible teaching materials  
+- **Finance & Quantitative Analysis**: Asset valuation, investment analysis, financial modeling, corporate finance  
+- **Workflow & Productivity**: Git/GitHub, Microsoft 365, reproducible research pipelines  
+
+---
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/lance-chirima-aa69461b9/)  
+- [Email](mailto:chirimalance@gmail.com)  
+- [GitHub](https://github.com/yourusername)  
+
+---
