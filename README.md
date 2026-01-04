@@ -59,6 +59,6 @@
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/lance-chirima-aa69461b9/)  
 - [Email](mailto:chirimalance@gmail.com)  
-- [GitHub](https://github.com/yourusername)  
+- [GitHub]([https://github.com/yourusername](https://github.com/chirimalance-tech))  
 
 ---
