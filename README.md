@@ -50,7 +50,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Reproducible Research Pipelines](https://img.shields.io/badge/Reproducible%20Research%20Pipelines-607D8B?style=for-the-badge&logo=researchgate&logoColor=white)
-
 ---
 
 ## 🌐 Connect with Me
