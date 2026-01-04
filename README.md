@@ -28,8 +28,6 @@
 ### 🔹 Statistical Modeling
 ![Probability Theory](https://img.shields.io/badge/Probability%20Theory-FF6F00?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Regression](https://img.shields.io/badge/Regression-009688?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Variance Decomposition](https://img.shields.io/badge/Variance%20Decomposition-795548?style=for-the-badge&logo=apachespark&logoColor=white)
-![Negative Binomial Modeling](https://img.shields.io/badge/Negative%20Binomial%20Modeling-9C27B0?style=for-the-badge&logo=statamic&logoColor=white)
 
 ### 🔹 Machine Learning
 ![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-FF9800?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -40,7 +38,6 @@
 ![ggplot2](https://img.shields.io/badge/ggplot2-1A73E8?style=for-the-badge&logo=r&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Shiny Apps](https://img.shields.io/badge/Shiny%20Apps-00BFA5?style=for-the-badge&logo=rstudio&logoColor=white)
-![Teaching Materials](https://img.shields.io/badge/Reproducible%20Teaching%20Materials-673AB7?style=for-the-badge&logo=bookstack&logoColor=white)
 
 ### 🔹 Finance & Quantitative Analysis
 ![Asset Valuation](https://img.shields.io/badge/Asset%20Valuation-2196F3?style=for-the-badge&logo=money&logoColor=white)
@@ -57,8 +54,5 @@
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/lance-chirima-aa69461b9/)  
-- [Email](mailto:chirimalance@gmail.com)  
-- [GitHub](https://github.com/chirimalance-tech)  
-
+- [LinkedIn](https://www.linkedin.com/in/lance-chirima-aa69461b9/)  [Email](mailto:chirimalance@gmail.com)  [GitHub](https://github.com/chirimalance-tech)  
 ---
