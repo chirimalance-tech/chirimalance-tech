@@ -11,7 +11,7 @@
 ---
 
 ## 🎓 Education
-- **MCom / MSc in Statistics and Data Science**
+- **MCom and Data Science** *(current)*
 - **BCom Honours in Statistics and Data Science**   
 - **BCom Investment Management**   
 
